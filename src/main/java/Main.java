@@ -19,7 +19,5 @@ public class Main {
         // Вычитание
         System.out.println("Разность: " + Calculator.subtract(8.5, 3));
     }
-
-
-
+    
 }
